@@ -1,4 +1,4 @@
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "YOUR_GPT_KEY"
 from langchain import OpenAI, ConversationChain, LLMChain, PromptTemplate
 from langchain.memory import ConversationBufferWindowMemory
 import os
