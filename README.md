@@ -42,4 +42,4 @@ The code includes the following functionalities:
 
 - This code requires an active internet connection to use the OpenAI API for generating responses.
 
-![Assistant GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
