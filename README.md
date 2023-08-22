@@ -4,9 +4,6 @@
 
 This code implements an interactive assistant that simulates a Linux terminal. It uses the GPT-3 model provided by OpenAI to generate terminal commands and responses based on user inputs. The assistant can receive voice commands and text inputs, providing terminal commands as output.
 
-...
-
-[View GIF on GIPHY](https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb)
 
 This code implements an interactive assistant that simulates a Linux terminal. It uses the GPT-3 model provided by OpenAI to generate terminal commands and responses based on user inputs. The assistant can receive voice commands and text inputs, providing terminal commands as output.
 
